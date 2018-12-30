@@ -72,7 +72,7 @@ Share some wonderful pictures for this hicking experience in Nepal on 25.12, 201
 #
 
 
-### Go back home and start happen new year.
+### Go back home and start to prepare everything for happen new year.
 #
 #
 
