@@ -37,10 +37,22 @@ Prime College, Kathmandu, Nepal, 20-30,2018
 The aim mountain is [Chandragiri Hill](https://en.wikipedia.org/wiki/Chandragiri_Hill,_Nepal).
 Share some wonderful pictures for this hicking experience in Nepal on 25.12, 2018.
 
-![Day6-Hacking](Day6-Hiking/hacking1.jpg){:height="24px" width="48px"}
-![Day6-Hacking](Day6-Hiking/hacking2.jpg){:height="24px" width="48px"}
-![Day6-Hacking](Day6-Hiking/hacking3.jpg){:height="24px" width="48px"}
-![Day6-Hacking](Day6-Hiking/hacking4.jpg){:height="24px" width="48px"}
+<img src="Day6-Hiking/Hacking1.png"
+     alt="hacking1"
+     style="float: left; margin-right: 20px;" />
+
+<img src="Day6-Hiking/Hacking2.png"
+     alt="hacking2"
+     style="float: left; margin-right: 20px;" />
+
+<img src="Day6-Hiking/Hacking3.png"
+     alt="hacking3"
+     style="float: left; margin-right: 20px;" />
+
+<img src="Day6-Hiking/Hacking4.png"
+     alt="hacking4"
+     style="float: left; margin-right: 20px;" />
+
 
 ### Day7.
 
