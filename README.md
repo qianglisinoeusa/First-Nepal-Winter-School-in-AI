@@ -39,19 +39,19 @@ Share some wonderful pictures for this hicking experience in Nepal on 25.12, 201
 
 <img src="Day6-Hiking/hacking1.jpg"
      alt="hacking1"
-     style="float: left; margin-right: 20px;" />
+     style="float: left; margin-right: 20px; height: 50" />
 
 <img src="Day6-Hiking/hacking2.jpg"
      alt="hacking2"
-     style="float: left; margin-right: 20px;" />
+     style="float: left; margin-right: 20px; height: 50" />
 
 <img src="Day6-Hiking/hacking3.jpg"
      alt="hacking3"
-     style="float: left; margin-right: 20px;" />
+     style="float: left; margin-right: 20px; height: 50" />
 
 <img src="Day6-Hiking/hacking4.jpg"
      alt="hacking4"
-     style="float: left; margin-right: 20px;" />
+     style="float: left; margin-right: 20px; height: 50" />
 
 
 ### Day7.
